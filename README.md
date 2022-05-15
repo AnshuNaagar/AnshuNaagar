@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/andydew10" target="blank"><img src="https://img.shields.io/twitter/follow/andydew10?logo=twitter&style=for-the-badge" alt="andydew10" /></a> </p>
 
-- 🔭 I’m currently learning **Next.js**
+- 🔭 I’m currently working on **Codebase**
 
 - 🌱 I’m currently learning **Next.js Redux**
 
 - 👯 I’m looking to collaborate on [Ecommerce websites like shopify](https://spaceneon.netlify.app/)
 
-- 🤝 I’m looking for help with **Tensorflow**
+- 🤝 I’m looking for help in **Tensorflow**
 
 - 👨‍💻 All of my projects are available at [https://websasuke.blogspot.com/](https://websasuke.blogspot.com/)
 
