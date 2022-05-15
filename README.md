@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alita as Anshu Naagar</h1>
-<h3 align="center">A passionate frontend developer from India New Delhi</h3>
+<h3 align="center">A young yoko 😏 dumb 😏 programmer from New Delhi India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshunaagar&label=Profile%20views&color=0e75b6&style=flat" alt="anshunaagar" /> </p>
 
